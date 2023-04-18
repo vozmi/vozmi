@@ -7,28 +7,9 @@
 
 - 📄 Know about my experiences: [CV__Maksim_Vozbranyuk.pdf](https://github.com/vozmi/vozmi/blob/main/CV__Maksim_Vozbranyuk.pdf)
 
-<h3 align="left">Languages and Tools:</h3>
-<h4>Backend:</h4>
-<p>
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-            alt="csharp" width="40" height="40" />
-    </a>
-    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
-            alt="dotnet" width="40" height="40" />
-    </a>
-    <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40" />
-    </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-            alt="postgresql" width="40" height="40" />
-    </a>
-</p>
+<h3 align="left">Skills:</h3>
 
-<p>
-<h4>Frontend::</h4>
+<h4>Frontend:</h4>
 <p>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
@@ -73,6 +54,23 @@
     </a>
 </p>
 
+<h4>Backend:</h4>
+<p>
+    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+            alt="csharp" width="40" height="40" />
+    </a>
+    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
+            alt="dotnet" width="40" height="40" />
+    </a>
+    <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40" />
+    </a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+            alt="postgresql" width="40" height="40" />
+    </a>
 </p>
 
 <h4>Testing:</h4>
