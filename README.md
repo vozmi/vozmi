@@ -3,4 +3,4 @@
 
 - 📫 How to reach me: [mvozbranuk@gmail.com](mailto:mvozbranuk@gmail.com)
 
-- 📄 Know about my experiences: [CV__Maksim_Vozbranyuk.pdf](https://github.com/vozmi/vozmi/blob/main/CV__Maksim_Vozbranyuk.pdf)
+- 📄 Know about my experiences: [CV.pdf](https://github.com/vozmi/vozmi/blob/main/CV__Maksim_Vozbraniuk.pdf)
